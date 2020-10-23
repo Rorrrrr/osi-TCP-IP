@@ -1,0 +1,15 @@
+OSI   7層              TCP/IP(4|5層)
+
+App    
+Presatation              APP
+Session            _________________
+Transport             Tranksport
+                   _________________
+Network               Internetwork
+                   _________________
+Data Link               LINK
+Physical
+
+"""""
+OSI:
+APP LAYER
