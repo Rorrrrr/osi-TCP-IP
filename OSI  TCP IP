@@ -1,17 +1,17 @@
-![協定protocol](IMG_0498.jpg.HEIC)
+![協定protocol](protocol.jpg)
 OSI   7層              TCP/IP(4|5層)
 
 App    
 Presatation              APP
-Session            _________________
+Session            _________________________
 Transport             Tranksport
-                   _________________
+                   _________________________
 Network               Internetwork
-                   _________________
-Data Link               LINK(Data Link/
+                   _________________________
+Data Link            LINK(Data Link/Physical)
 Physical
 
-"""""
+""
 OSI:
 APP LAYER
  
