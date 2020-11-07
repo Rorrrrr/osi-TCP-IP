@@ -1,13 +1,13 @@
-![TTCP IP.JPG](TCP IP.JPG)
+![TCP IP](TCP IP.JPG)
 """
 OSI   7層              TCP/IP(4|5層)
 
  App    
- Presatation              APP
+ Presatation     |         APP
 
 Session            _________________________
 
-Transport             Tranksport
+Transport  |           Tranksport
                    _________________________
 
 Network               Internetwork
