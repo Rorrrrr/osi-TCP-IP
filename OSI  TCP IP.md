@@ -1,27 +1,4 @@
-![TCP IP](TCP IP.JPG)
-'''
-OSI   7層              TCP/IP(4|5層)
-
- App    
- Presatation     |         APP
-
-Session            _________________________
-
-Transport  |           Tranksport
-                   _________________________
-
-Network               Internetwork
-                   _________________________
-
-Data Link            LINK(Data Link/Physical)
-
-Physical
+# computer network 計算網路概論
 
 
-'''
-
-OSI:
-APP LAYER
- 
-
-'''
+‵ ‵ ‵
