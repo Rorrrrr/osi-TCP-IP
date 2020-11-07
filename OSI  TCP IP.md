@@ -1,4 +1,5 @@
 ![TTCP IP.JPG](TCP IP.JPG)
+"""
 OSI   7層              TCP/IP(4|5層)
 
  App    
@@ -16,7 +17,9 @@ Data Link            LINK(Data Link/Physical)
 
 Physical
 
-""
+"""
+"""
 OSI:
 APP LAYER
  
+"""
