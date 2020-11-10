@@ -1,5 +1,5 @@
 # computer network 計算網路概論
-![]_ ()
+![TCP IP.jpg]_ (TCP IP.jpg)
 
 ‵ ‵ ‵
 
