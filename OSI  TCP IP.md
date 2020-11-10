@@ -1,5 +1,5 @@
 # computer network 計算網路概論
-![TCP IP.jpg]_ (TCP IP.jpg)
+![擷取.JPG]_ (擷取.JPG)
 
 ‵ ‵ ‵
 
