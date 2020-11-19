@@ -60,7 +60,7 @@
  HTTPS:(HyperText Transfer Protocol Secure),使用HTTP進行通訊但通訊過程有進行加密在OSI中的應用層
 2.TELNET:供使用者在本地主機執行遠端主機上的工作。在應用層
   SSH:(Secure Shell),通過在網路中建立安全隧道來實現SSH客戶端與伺服器之間的連接,在應用層
-3.DNS:
+3.DNS:將域名和IP位址相互對映的一個分散式資料庫，能夠使人更方便地存取網際網路
 4.IP:(Internet Potocol),任務僅僅是根據源主機和目的主機的位址來傳送資料
 5.ICMP:(Internet Control Message Protocol),提供可能發生在通訊環境中的各種問題回饋
 ```
