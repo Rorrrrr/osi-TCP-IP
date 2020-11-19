@@ -35,10 +35,12 @@
  
 傳輸層(Transpot Layer)
 
-1TCP 可靠:資料錯誤會重傳/threeway handshaking
+1TCP:(Transmission Control Protoco) ,可靠,資料錯誤會重傳/threeway handshaking
 
-2UDP 不可靠:資料不會重傳,丟失就不見了
-
+2UDP:(User Datagram Protocol) ,不可靠,資料不會重傳,丟失就不見了
+三向交握 (Three-way Handshake):client  ---SYN-->  Server
+                                 |     <--SYN+ACK-- |
+                                 |     ---ACK--->   |
 會議層(Session Layer)
  
  1負責建立、管理、以及終止兩個通訊主機的對話
@@ -53,4 +55,15 @@
  
  2 http、https
 ``` 
- 
+```
+1HTTP:(HyperText Transfer Protocol),規範了客戶端請求與伺服器回應的標準，OSI中的應用層
+ HTTPS:(HyperText Transfer Protocol Secure),使用HTTP進行通訊但通訊過程有進行加密在OSI中的應用層
+2.TELNET:供使用者在本地主機執行遠端主機上的工作。在應用層
+  SSH:(Secure Shell),通過在網路中建立安全隧道來實現SSH客戶端與伺服器之間的連接,在應用層
+3.DNS:
+4.IP:(Internet Potocol),任務僅僅是根據源主機和目的主機的位址來傳送資料
+5.ICMP:(Internet Control Message Protocol),提供可能發生在通訊環境中的各種問題回饋
+```
+```
+
+```
