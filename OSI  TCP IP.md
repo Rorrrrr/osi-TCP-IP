@@ -1,6 +1,6 @@
 # computer network 計算網路概論
 
-![擷取.JPG]_ (擷取.JPG)
+
 
 ```
 網路通訊傳輸協定(communcation protocol):在電信領域中,允許兩個或多個在傳輸系統中的終端之間傳播資訊的系統標準。
