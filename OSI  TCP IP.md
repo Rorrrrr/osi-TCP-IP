@@ -6,7 +6,7 @@
 網路通訊傳輸協定(communcation protocol):在電信領域中,允許兩個或多個在傳輸系統中的終端之間傳播資訊的系統標準。
 ```
 ```
-分層是為了利用層次結構可以把開放系統資訊交換問題分解到一系列容易控制的軟硬體模組。
+分層是為了利用層次結構可以把開放系統資訊交換問題分解到一系列容易控制的軟硬體模組中。
 ```
 ```
 
@@ -61,9 +61,22 @@
 2.TELNET:供使用者在本地主機執行遠端主機上的工作。在應用層
   SSH:(Secure Shell),通過在網路中建立安全隧道來實現SSH客戶端與伺服器之間的連接,在應用層
 3.DNS:將域名和IP位址相互對映的一個分散式資料庫，能夠使人更方便地存取網際網路
-4.IP:(Internet Potocol),任務僅僅是根據源主機和目的主機的位址來傳送資料
-5.ICMP:(Internet Control Message Protocol),提供可能發生在通訊環境中的各種問題回饋
+4.IP:(Internet Potocol),任務僅僅是根據源主機和目的主機的位址來傳送資料,Network Layer
+5.ICMP:(Internet Control Message Protocol),提供可能發生在通訊環境中的各種問題回饋,Network Layer
 ```
 ```
 
+Hub:集中網路內多條纜線,並傳輸所有資料至中央裝置,Physical Layer
+Repeater:將輸入訊號增強放大的類比裝置,
+Switch集中多條纜線的中心點,但他指將資料傳給預先決定的收件方,Data Link Layer
+Bridge:網路的多個網段在資料鏈路層連接起來,Data link Layer
+Router:一種將二或多個網路相連接,並負責導引資料網路傳輸到達正確目的地,Neterwork Layer
+L3 Switch:以硬體的方式來加速路由運算與封包傳送率並結合Layer 2 的彈性設定,Data Link Layer
+Proxy:允許一個客戶端通過這個服務與另一個網路終端進行非直接的連接
+```
+```
+
+PORT address:在一個電腦作業系統中扮演通訊的端點,每個通訊埠都會與主機的IP位址及通訊協定關聯Transport Layer
+IP address:當裝置連接網路，裝置將被分配一個IP位址,相當於住家地址 Neterwork Layer
+MAC address:MAC位址用於在網路中唯一標示一個網卡，一台裝置若有一或多個網卡，則每個網卡都需要並會有一個唯一的MAC位址=身分證,DATA Link Layer
 ```
